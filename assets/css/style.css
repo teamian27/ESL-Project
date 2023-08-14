@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+/* --------------------------Colors */
+.ui-menu-color-home {
+    background-color: #FFFF00;
+}
+
+.ui-menu-color-plan {
+    background-color: #4169e1;
+}
+
+.ui-menu-color-contact {
+    background-color: #FFFF00;
+}
+
+
+  /* --------------------------Heading */
+
+  .menucontainer {
+      font-size: 0;
+
+  }
+
+  #nav {
+      margin: 0;
+  }
+
+  #nav li {
+      font-size: 14px;
+      padding: 0;
+  }
+
+  .menuitemhome {
+      height: 120px;
+      text-align: center;
+      padding: 0;
+  }
+
+  .menuitemplan {
+      height: 120px;
+      text-align: center;
+      padding: 0;
+  }
+  .menuitemcontact {
+      height: 120px;
+      text-align: center;
+      padding: 0;
+  }
+
+  .menuitemhome a {
+      width: 100%;
+      text-decoration: none;
+      color: #4169e1;
+      height: 120px;
+    }
+
+  .menuitemhome a i {
+      padding-top: 22px;
+      display: block;
+      color: #4169e1;
+      font-size: 26px;
+
+  }
+
+  .menuitemhome span {
+      display: block;
+      width: 100%;
+      padding-top: 5px;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 300;
+      letter-spacing: 2px;
+  }
+
+  .menuitemplan a {
+      width: 100%;
+      text-decoration: none;
+      color: #FFFF00;
+      height: 120px;
+  }
+
+  .menuitemplan a i {
+      padding-top: 22px;
+      display: block;
+      color: #FFFF00;
+      font-size: 26px;
+
+  }
+
+  .menuitemplan span {
+      display: block;
+      width: 100%;
+      padding-top: 5px;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 300;
+      letter-spacing: 2px;
+  }
+
+  .menuitemcontact a {
+      width: 100%;
+      text-decoration: none;
+      color: #4169e1;
+      height: 120px;
+  }
+
+  .menuitemcontact a i {
+      padding-top: 22px;
+      display: block;
+      color: #4169e1;
+      font-size: 26px;
+
+  }
+
+  .menuitemcontact span {
+      display: block;
+      width: 100%;
+      padding-top: 5px;
+      text-align: center;
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 300;
+      letter-spacing: 2px;
+  }
