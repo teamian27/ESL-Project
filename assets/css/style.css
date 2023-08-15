@@ -14,11 +14,10 @@
 }
 
 
-  /* --------------------------Heading */
+  /* --------------------------nav */
 
   .menucontainer {
       font-size: 0;
-
   }
 
   #nav {
@@ -31,18 +30,18 @@
   }
 
   .menuitemhome {
-      height: 120px;
+      height: 60px;
       text-align: center;
       padding: 0;
   }
 
   .menuitemplan {
-      height: 120px;
+      height: 60px;
       text-align: center;
       padding: 0;
   }
   .menuitemcontact {
-      height: 120px;
+      height: 60px;
       text-align: center;
       padding: 0;
   }
@@ -55,7 +54,7 @@
     }
 
   .menuitemhome a i {
-      padding-top: 22px;
+      padding-top: 10px;
       display: block;
       color: #4169e1;
       font-size: 26px;
@@ -65,7 +64,7 @@
   .menuitemhome span {
       display: block;
       width: 100%;
-      padding-top: 5px;
+      padding-top: 0px;
       text-align: center;
       text-transform: uppercase;
       font-size: 14px;
@@ -81,7 +80,7 @@
   }
 
   .menuitemplan a i {
-      padding-top: 22px;
+      padding-top: 10px;
       display: block;
       color: #FFFF00;
       font-size: 26px;
@@ -107,7 +106,7 @@
   }
 
   .menuitemcontact a i {
-      padding-top: 22px;
+      padding-top: 10px;
       display: block;
       color: #4169e1;
       font-size: 26px;
@@ -124,3 +123,21 @@
       font-weight: 300;
       letter-spacing: 2px;
   }
+
+/* --------------------------Hero Image */
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/english-2724442_1280.jpg") no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
