@@ -1,143 +1,247 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /* --------------------------Colors */
+.bg-color-name-title {
+    background-color: #416941;}
+
 .ui-menu-color-home {
-    background-color: #FFFF00;
+    background-color: #ff0;
 }
 
-.ui-menu-color-plan {
+.ui-menu-color-resume {
     background-color: #4169e1;
 }
 
 .ui-menu-color-contact {
-    background-color: #FFFF00;
+    background-color: #ff0;
 }
 
+.ui-menu-color-download {
+    background-color: #4169e1
+    ;
+}
+.about-me-background-color {
+    background-color: #416941;
+}
 
-  /* --------------------------nav */
+  
+/* --------------------------header */
 
-  .menucontainer {
-      font-size: 0;
-  }
+        header {
+            margin: 0;
+        }
+    
+        .heading {
+            margin-left: 50px;
+    
+        }
+    
 
-  #nav {
-      margin: 0;
-  }
-
-  #nav li {
-      font-size: 14px;
-      padding: 0;
-  }
-
-  .menuitemhome {
-      height: 60px;
-      text-align: center;
-      padding: 0;
-  }
-
-  .menuitemplan {
-      height: 60px;
-      text-align: center;
-      padding: 0;
-  }
-  .menuitemcontact {
-      height: 60px;
-      text-align: center;
-      padding: 0;
-  }
-
-  .menuitemhome a {
-      width: 100%;
-      text-decoration: none;
-      color: #4169e1;
-      height: 120px;
+    .logo {
+        background: url("../images/english-2724442_1280.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 360px;
+        transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
     }
 
-  .menuitemhome a i {
-      padding-top: 10px;
-      display: block;
-      color: #4169e1;
-      font-size: 26px;
+    .name {
+        font-family: "Exo", sans-serif;
+        font-weight: 400;
+        font-size: 52px;
+        margin-top: 50px;
+        color: white;
+    }
 
-  }
+    .title {
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 32px;
+        margin-top: 20px;
+        margin-bottom: 90px;
+        color: white;
+    }
 
-  .menuitemhome span {
-      display: block;
-      width: 100%;
-      padding-top: 0px;
-      text-align: center;
-      text-transform: uppercase;
-      font-size: 14px;
-      font-weight: 300;
-      letter-spacing: 2px;
-  }
+    .list-inline-item:not(:last-child) {
+        margin: 0;
+    }
 
-  .menuitemplan a {
-      width: 100%;
-      text-decoration: none;
-      color: #FFFF00;
-      height: 120px;
-  }
+    .menucontainer {
+        font-size: 0;
 
-  .menuitemplan a i {
-      padding-top: 10px;
-      display: block;
-      color: #FFFF00;
-      font-size: 26px;
+    }
 
-  }
+    #nav {
+        margin: 0;
+    }
 
-  .menuitemplan span {
-      display: block;
-      width: 100%;
-      padding-top: 5px;
-      text-align: center;
-      text-transform: uppercase;
-      font-size: 14px;
-      font-weight: 300;
-      letter-spacing: 2px;
-  }
+    #nav li {
+        font-size: 14px;
+        padding: 0;
+    }
 
-  .menuitemcontact a {
-      width: 100%;
-      text-decoration: none;
-      color: #4169e1;
-      height: 120px;
-  }
+    .menuitemhome {
+        height: 120px;
+        text-align: center;
+        padding: 0;
+    }
 
-  .menuitemcontact a i {
-      padding-top: 10px;
-      display: block;
-      color: #4169e1;
-      font-size: 26px;
+    .menuitemhome a {
+        width: 100%;
+        text-decoration: none;
+        color: #4169e1;
+        height: 120px;
+    }
 
-  }
+    .menuitemhome a i {
+        padding-top: 22px;
+        display: block;
+        color: #4169e1;
+        font-size: 26px;
+    }
 
-  .menuitemcontact span {
-      display: block;
-      width: 100%;
-      padding-top: 5px;
-      text-align: center;
-      text-transform: uppercase;
-      font-size: 14px;
-      font-weight: 300;
-      letter-spacing: 2px;
-  }
+    .menuitemhome span {
+        display: block;
+        width: 100%;
+        padding-top: 5px;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 14px;
+        font-weight: 500;
+        letter-spacing: 2px;
+    }
 
-/* --------------------------Hero Image */
-#hero-image {
-    height: 600px;
-    width: 100%;
-    background: url("../images/english-2724442_1280.jpg") no-repeat center center;
+          .menuitemplan {
+            height: 120px;
+            text-align: center;
+            padding: 0;
+        }
+    
+        .menuitemplan a {
+            width: 100%;
+            text-decoration: none;
+            color: #ff0;
+            height: 120px;
+        }
+    
+        .menuitemplan a i {
+            padding-top: 22px;
+            display: block;
+            color: #ff0;
+            font-size: 26px;
+        }
+    
+        .menuitemplan span {
+            display: block;
+            width: 100%;
+            padding-top: 5px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 2px;
+        }
 
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+                .menuitemcontact {
+                    height: 120px;
+                    text-align: center;
+                    padding: 0;
+                }
+        
+                .menuitemcontact a {
+                    width: 100%;
+                    text-decoration: none;
+                    color: #4169e1;
+                    height: 120px;
+                }
+        
+                .menuitemcontact a i {
+                    padding-top: 22px;
+                    display: block;
+                    color: #4169e1;
+                    font-size: 26px;
+                }
+        
+                .menuitemcontact span {
+                    display: block;
+                    width: 100%;
+                    padding-top: 5px;
+                    text-align: center;
+                    text-transform: uppercase;
+                    font-size: 14px;
+                    font-weight: 500;
+                    letter-spacing: 2px;
+                } 
+                
+                .menuitemlinks {
+                     height: 120px;
+                     text-align: center;
+                     padding: 0;
+                 }
+                
+                 .menuitemlinks a {
+                     width: 100%;
+                     text-decoration: none;
+                     color: #ff0;
+                     height: 120px;
+                 }
+                
+                 .menuitemlinks a i {
+                     padding-top: 22px;
+                     display: block;
+                     color: #ff0;
+                     font-size: 26px;
+                 }
+                
+                 .menuitemlinks span {
+                     display: block;
+                     width: 100%;
+                     padding-top: 5px;
+                     text-align: center;
+                     text-transform: uppercase;
+                     font-size: 14px;
+                     font-weight: 500;
+                     letter-spacing: 2px;
+                 }
+  
+
+/* --------------------------footer */
+
+footer {
+    background-color: #416941;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
 }
 
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #e84610;
+}
+
+#footer-details {
+    padding: 20px;
 }
