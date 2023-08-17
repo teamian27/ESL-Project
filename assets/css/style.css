@@ -252,8 +252,30 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
-/* --------------------------footer */
 
+
+
+/* -------------------------text */
+.intro-text {
+    font-size: 21px;
+    font-family: "EXO";
+    font-weight: 400;
+    margin: 0;
+    padding-top: 20px;
+    letter-spacing: 1px;
+}
+
+p {
+    font-size: 16px;
+font-family: "EXO";
+font-weight: 400;
+margin: 0;
+padding-top: 5px;
+padding-bottom: 5px;
+
+
+}
+/* --------------------------footer */
 footer {
     background-color: #416941;
     color: #fafafa;
@@ -289,3 +311,56 @@ footer {
 #footer-details {
     padding: 20px;
 }
+
+/* --------------------------Contact Form */
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type=submit] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #ff0;
+    background-color: #4169e1;
+}
+
+.myclass+label {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #ff0;
+    background-color: #4169e1;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.myclass:focus+label,
+.myclass+label:hover {
+    background-color: grey;
+}
+
+.myclass {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+    /* --------------------------Media Queries */
+        @media(min-width: 992px) {
+            .center-form {
+                padding-top: 30px;
+                min-height: 240px;
+                margin: 0 auto;
+                max-width: 50%;
+            }
