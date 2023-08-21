@@ -33,9 +33,7 @@
         }
     
         .heading {
-            margin-left: 50px;
-    
-        }
+            margin-left: 50px;}
 
     .background-image{
             background: url("../images/360_F_415649891_o1C3n3N3WucOFSK5zExC0hd13TuOeEIJ.jpg");
@@ -52,6 +50,13 @@
         background-size: cover;
     } 
 
+    .background-music{
+        background: url("../images/Music picture.jpg");
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+    }
+
     .logo {
         background: url("../images/english-2724442_1280.jpg");
         background-position: center;
@@ -65,10 +70,10 @@
 
     .name {
         font-family: "Exo", sans-serif;
-        font-weight: 400;
+        font-weight: 600;
         font-size: 52px;
         margin-top: 50px;
-        color: white;
+        color: red;
     }
 
     .title {
@@ -77,7 +82,7 @@
         font-size: 32px;
         margin-top: 20px;
         margin-bottom: 90px;
-        color: white;
+        color: red;
     }
 
     .list-inline-item:not(:last-child) {
@@ -222,6 +227,13 @@
                      letter-spacing: 2px;
                  }
   
+/*---------------------------- images */
+
+.underconstruction {
+    padding: 5px;
+    width: 100%;
+}
+
 /* --------------------------- dropdown menu homepage */
 
 .dropdown {
@@ -270,6 +282,7 @@
 
 
 
+
 /* -------------------------text */
 .uppercase {
     text-transform: uppercase;
@@ -312,6 +325,18 @@ padding-bottom: 5px;
 h3 {
     text-transform: uppercase;
 }
+
+.underconstruction {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+
 
 /* --------------------------Lesson plan pages */
 
