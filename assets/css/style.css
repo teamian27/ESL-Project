@@ -141,27 +141,27 @@
         letter-spacing: 2px;
     }
 
-          .menuitemplan {
+    .menuitemplan {
             height: 80px;
             text-align: center;
             padding: 0;
         }
     
-        .menuitemplan a {
+    .menuitemplan a {
             width: 100%;
             text-decoration: none;
             color: #ff0;
             height: 120px;
         }
     
-        .menuitemplan a i {
+    .menuitemplan a i {
             padding-top: 22px;
             display: block;
             color: #ff0;
             font-size: 26px;
         }
     
-        .menuitemplan span {
+    .menuitemplan span {
             display: block;
             width: 100%;
             padding-top: 5px;
@@ -172,66 +172,66 @@
             letter-spacing: 2px;
         }
 
-                .menuitemcontact {
-                    height: 80px;
-                    text-align: center;
-                    padding: 0;
+    .menuitemcontact {
+            height: 80px;
+            text-align: center;
+            padding: 0;
                 }
         
-                .menuitemcontact a {
-                    width: 100%;
-                    text-decoration: none;
-                    color: #4169e1;
-                    height: 120px;
+    .menuitemcontact a {
+            width: 100%;
+            text-decoration: none;
+            color: #4169e1;
+            height: 120px;
                 }
         
-                .menuitemcontact a i {
-                    padding-top: 22px;
-                    display: block;
-                    color: #4169e1;
-                    font-size: 26px;
+    .menuitemcontact a i {
+            padding-top: 22px;
+            display: block;
+            color: #4169e1;
+            font-size: 26px;
                 }
         
-                .menuitemcontact span {
-                    display: block;
-                    width: 100%;
-                    padding-top: 5px;
-                    text-align: center;
-                    text-transform: uppercase;
-                    font-size: 14px;
-                    font-weight: 500;
-                    letter-spacing: 2px;
+    .menuitemcontact span {
+            display: block;
+            width: 100%;
+            padding-top: 5px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 2px;
                 } 
                 
-                .menuitemlinks {
-                     height: 80px;
-                     text-align: center;
-                     padding: 0;
+    .menuitemlinks {
+            height: 80px;
+            text-align: center;
+            padding: 0;
                  }
                 
-                 .menuitemlinks a {
-                     width: 100%;
-                     text-decoration: none;
-                     color: #ff0;
-                     height: 120px;
+    .menuitemlinks a {
+            width: 100%;
+            text-decoration: none;
+            color: #ff0;
+            height: 120px;
                  }
                 
-                 .menuitemlinks a i {
-                     padding-top: 22px;
-                     display: block;
-                     color: #ff0;
-                     font-size: 26px;
+    .menuitemlinks a i {
+            padding-top: 22px;
+            display: block;
+            color: #ff0;
+            font-size: 26px;
                  }
                 
-                 .menuitemlinks span {
-                     display: block;
-                     width: 100%;
-                     padding-top: 5px;
-                     text-align: center;
-                     text-transform: uppercase;
-                     font-size: 14px;
-                     font-weight: 500;
-                     letter-spacing: 2px;
+    .menuitemlinks span {
+            display: block;
+            width: 100%;
+            padding-top: 5px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 2px;
                  }
   
 /*---------------------------- images */
@@ -251,11 +251,11 @@
 }
 
 .uberstory {
-        padding-top: 20px;
-        padding-bottom: 20px;
-        display: block;
-        margin-right: auto;
-        float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    margin-right: auto;
+    float: left;
 }
 /* --------------------------- dropdown menu homepage */
 
@@ -269,8 +269,7 @@
     font-family: "EXO";
     font-size: 15px;
     font-weight: 430;
-    color: #ff0;
-    
+    color: #ff0; 
     top: 100%;
     margin: 0;
 }
@@ -304,8 +303,6 @@
 }
 
 
-
-
 /* -------------------------text */
 .uppercase {
     text-transform: uppercase;
@@ -332,12 +329,12 @@
 
 .value {
     font-size: 35px;
-font-family: "EXO";
-font-weight: 400;
-margin: 0;
-padding-top: 10px;
-padding-bottom: 10px;
-color: red;
+    font-family: "EXO";
+    font-weight: 400;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: red;
 }
 
 .lessonplan-list {
@@ -365,9 +362,10 @@ h3 {
 
 .uberstorytext {
     padding-left: 20px;
-        padding-top: 80px;
-        
-        float: left;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    float: left;
+       
 }
 
 .footer-text {
@@ -383,10 +381,9 @@ h3 {
 }
 
 
-
-/* --------------------------Lesson plan pages */
-
-
+.section-heading {
+    text-align: center;
+}
 
 /* --------------------------footer */
 footer {
@@ -394,8 +391,7 @@ footer {
     background: url("../images/360_F_415649891_o1C3n3N3WucOFSK5zExC0hd13TuOeEIJ.jpg");
     color: #ff0;
     min-height: 120px;
-    margin: 0;
-    
+    margin: 0; 
 }
 
 
@@ -428,6 +424,7 @@ footer {
 #footer-details {
     padding: 20px;
 }
+
 
 /* --------------------------Contact Form */
 .contact-heading {
@@ -475,10 +472,10 @@ button[type=submit] {
 }
 
     /* --------------------------Media Queries */
-        @media(min-width: 992px) {
-            .center-form {
-                padding-top: 30px;
-                min-height: 240px;
-                margin: 0 auto;
-                max-width: 50%;
-            }
+@media(min-width: 992px) {
+    .center-form {
+        padding-top: 30px;
+        min-height: 240px;
+        margin: 0 auto;
+        max-width: 50%;
+}
