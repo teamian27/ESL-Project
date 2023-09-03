@@ -40,7 +40,7 @@
             margin-left: 50px;}
 
     .background-image{
-            background: url("../images/360_F_415649891_o1C3n3N3WucOFSK5zExC0hd13TuOeEIJ.jpg");
+            background: url("../images/Chalkboard.jpg");
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -49,7 +49,7 @@
 
 
     .background-horror{
-        background: url("../images/photo-1610129142564-79956dcecc7b.jfif");
+        background: url("../images/Spooky\ forest.jfif");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -65,7 +65,7 @@
     }
 
     .logo {
-        background: url("../images/english-2724442_1280.jpg");
+        background: url("../images/english\ logo.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -395,7 +395,7 @@ h3 {
 /* --------------------------footer */
 footer {
     background-color: #416941;
-    background: url("../images/360_F_415649891_o1C3n3N3WucOFSK5zExC0hd13TuOeEIJ.jpg");
+    background: url("../images/Chalkboard.jpg");
     color: #ff0;
     min-height: 120px;
     margin: 0; 
@@ -408,10 +408,15 @@ footer {
     padding-top: 25px;
 }
 
+.social-links li {
+    display: inline;
+
+}
+
 .social-links li a i {
-    width: 60px;
-    height: 60px;
-    padding: 28px 0;
+    width: 32px;
+    height: 30px;
+    padding: 25px 0;
     border-radius: 25%;
     font-size: 35px;
     line-height: 7px;
