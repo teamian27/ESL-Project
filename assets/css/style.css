@@ -6,19 +6,19 @@
 }
 
 .ui-menu-color-home {
-    background-color: #ff0;
+    background-color: #8f8f8f;
 }
 
 .ui-menu-color-resume {
-    background-color: #4169e1;
+    background-color: #9f9f9f;
 }
 
 .ui-menu-color-contact {
-    background-color: #ff0;
+    background-color: #8f8f8f;
 }
 
 .ui-menu-color-download {
-    background-color: #4169e1
+    background-color: #9f9f9f
     ;
 }
 .bg-color-about-me {
@@ -40,7 +40,7 @@
             margin-left: 50px;}
 
     .background-image{
-            background: url("../images/Chalkboard.jpg");
+            background-color: #416941;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -65,7 +65,7 @@
     }
 
     .logo {
-        background: url("../images/english\ logo.jpg");
+        background: url("../images/Chalkboard.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -80,7 +80,8 @@
         font-weight: 600;
         font-size: 52px;
         margin-top: 50px;
-        color: red;
+        color: white;
+        padding-left: 20px;
     }
 
     .title {
@@ -89,7 +90,8 @@
         font-size: 32px;
         margin-top: 20px;
         margin-bottom: 90px;
-        color: red;
+        color: white;
+        padding-left: 20px;
     }
 
     .list-inline-item:not(:last-child) {
@@ -106,134 +108,41 @@
     }
 
     #nav li {
-        font-size: 14px;
+        font-size: 20px;
         padding: 0;
     }
 
-    .menuitemhome {
+    .menuitem {
         height: 80px;
         text-align: center;
         padding: 0;
+        
     }
 
-    .menuitemhome a {
+    .menuitem a {
         width: 100%;
         text-decoration: none;
         color: #4169e1;
         height: 120px;
     }
 
-    .menuitemhome a i {
-        padding-top: 22px;
-        display: block;
-        color: #4169e1;
-        font-size: 26px;
-    }
-
-    .menuitemhome span {
+    .menuitem span {
         display: block;
         width: 100%;
-        padding-top: 5px;
+        padding-top: 20px;
         text-align: center;
         text-transform: uppercase;
-        font-size: 14px;
+        font-size: 35px;
         font-weight: 500;
         letter-spacing: 2px;
     }
 
-    .menuitemplan {
-            height: 80px;
-            text-align: center;
-            padding: 0;
-        }
-    
-    .menuitemplan a {
-            width: 100%;
-            text-decoration: none;
-            color: #ff0;
-            height: 120px;
-        }
-    
-    .menuitemplan a i {
-            padding-top: 22px;
-            display: block;
-            color: #ff0;
-            font-size: 26px;
-        }
-    
-    .menuitemplan span {
-            display: block;
-            width: 100%;
-            padding-top: 5px;
-            text-align: center;
-            text-transform: uppercase;
-            font-size: 14px;
-            font-weight: 500;
-            letter-spacing: 2px;
-        }
+.nav-bar li a :hover {
+    background: #ff0;
 
-    .menuitemcontact {
-            height: 80px;
-            text-align: center;
-            padding: 0;
-                }
-        
-    .menuitemcontact a {
-            width: 100%;
-            text-decoration: none;
-            color: #4169e1;
-            height: 120px;
-                }
-        
-    .menuitemcontact a i {
-            padding-top: 22px;
-            display: block;
-            color: #4169e1;
-            font-size: 26px;
-                }
-        
-    .menuitemcontact span {
-            display: block;
-            width: 100%;
-            padding-top: 5px;
-            text-align: center;
-            text-transform: uppercase;
-            font-size: 14px;
-            font-weight: 500;
-            letter-spacing: 2px;
-                } 
-                
-    .menuitemlinks {
-            height: 80px;
-            text-align: center;
-            padding: 0;
-                 }
-                
-    .menuitemlinks a {
-            width: 100%;
-            text-decoration: none;
-            color: #ff0;
-            height: 120px;
-                 }
-                
-    .menuitemlinks a i {
-            padding-top: 22px;
-            display: block;
-            color: #ff0;
-            font-size: 26px;
-                 }
-                
-    .menuitemlinks span {
-            display: block;
-            width: 100%;
-            padding-top: 5px;
-            text-align: center;
-            text-transform: uppercase;
-            font-size: 14px;
-            font-weight: 500;
-            letter-spacing: 2px;
-                 }
-  
+}
+
+
 /*---------------------------- list */
 
 .no-bullet {
@@ -276,7 +185,7 @@
     font-family: "EXO";
     font-size: 15px;
     font-weight: 430;
-    color: #ff0; 
+    color: #4169e1; 
     top: 100%;
     margin: 0;
 }
@@ -315,6 +224,10 @@
     text-transform: uppercase;
 }
 
+.intro-title{
+    color: white;
+}
+
 .intro-text {
     font-size: 21px;
     font-family: "EXO";
@@ -323,6 +236,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
     letter-spacing: 1px;
+    color: white;
 }
 .key {
     font-size: 25px;
@@ -396,6 +310,9 @@ h3 {
 footer {
     background-color: #416941;
     background: url("../images/Chalkboard.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #ff0;
     min-height: 120px;
     margin: 0; 
@@ -404,7 +321,7 @@ footer {
 
 .social-links {
     padding-bottom: 15px;
-    margin-left: 40%;
+    text-align: center;
     padding-top: 25px;
 }
 
@@ -414,8 +331,8 @@ footer {
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     padding: 25px 0;
     border-radius: 25%;
     font-size: 35px;
