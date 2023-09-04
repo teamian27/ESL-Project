@@ -9,16 +9,12 @@
     background-color: #8f8f8f;
 }
 
-.ui-menu-color-resume {
-    background-color: #9f9f9f;
-}
-
 .ui-menu-color-contact {
     background-color: #8f8f8f;
 }
 
 .ui-menu-color-download {
-    background-color: #9f9f9f
+    background-color: #8f8f8f
     ;
 }
 .bg-color-about-me {
@@ -173,51 +169,6 @@
     margin-right: auto;
     float: left;
 }
-/* --------------------------- dropdown menu homepage */
-
-.dropdown {
-    float: center;
-    position: relative;
-}
-
-.dropdown .dropbtn {
-    text-align: center;
-    font-family: "EXO";
-    font-size: 15px;
-    font-weight: 430;
-    color: #4169e1; 
-    top: 100%;
-    margin: 0;
-}
-
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: rgba(255, 43, 24, 0.795);
-    min-width: 250px;
-    z-index: 1;
-    top: 100%;
-}
-
-.dropdown-content a {
-    float: none;
-    color: #ff0;
-    padding: 2px 2px;
-    text-decoration: none;
-    display: block;
-    text-align: left;
-    font-size: 20px;
-    font-weight: 500;
-}
-
-.dropdown-content a:hover {
-    color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
 
 /* -------------------------text */
 .uppercase {
@@ -227,6 +178,18 @@
 .intro-title{
     color: white;
 }
+
+.music-text
+{
+        font-size: 21px;
+        font-family: "EXO";
+        font-weight: 400;
+        margin: 0;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        letter-spacing: 1px;
+        color: black;
+    }
 
 .intro-text {
     font-size: 21px;
