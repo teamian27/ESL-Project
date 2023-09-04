@@ -6,15 +6,15 @@
 }
 
 .ui-menu-color-home {
-    background-color: #8f8f8f;
+    background-color: #ff0;
 }
 
 .ui-menu-color-contact {
-    background-color: #8f8f8f;
+    background-color: #ff0;
 }
 
 .ui-menu-color-download {
-    background-color: #8f8f8f
+    background-color: #ff0
     ;
 }
 .bg-color-about-me {
@@ -23,6 +23,8 @@
 
 .bg-color-main-text {
     background-color: #bdbaba8a;
+    min-height: 47vh;
+
 }
 
   
@@ -37,23 +39,6 @@
 
     .background-image{
             background-color: #416941;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            min-height: 280px;
-        }
-
-
-    .background-horror{
-        background: url("../images/Spooky\ forest.jfif");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        min-height: 280px;
-    } 
-
-    .background-music{
-        background: url("../images/Music picture.jpg");
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -76,8 +61,10 @@
         font-weight: 600;
         font-size: 52px;
         margin-top: 50px;
-        color: white;
-        padding-left: 20px;
+        color: #ffffff;
+        padding-left: 25px;
+        padding-top: 50px;
+        
     }
 
     .title {
@@ -86,14 +73,13 @@
         font-size: 32px;
         margin-top: 20px;
         margin-bottom: 90px;
-        color: white;
-        padding-left: 20px;
+        color: #fffffff;
+        padding-left: 25px;
     }
 
     .list-inline-item:not(:last-child) {
         margin: 0;
     }
-
     .menucontainer {
         font-size: 0;
 
@@ -134,24 +120,24 @@
     }
 
 .nav-bar li a :hover {
-    background: #ff0;
+    background: #8f8f8f;
 
 }
 
 
-/*---------------------------- list */
+/*---------------------------- menu and list */
 
 .no-bullet {
     list-style-type: none;
 }
 
+.lessonplan-list {
+    display: inline-block;
+}
+
 
 /*---------------------------- images */
 
-.underconstruction {
-    padding: 5px;
-    width: 100%;
-}
 
 .sentencestory {
      padding-top: 10px;
@@ -177,6 +163,7 @@
 
 .intro-title{
     color: white;
+    padding-top: 40px;
 }
 
 .music-text
@@ -208,7 +195,7 @@
     margin: 0;
     padding-top: 5px;
     padding-bottom: 5px;
-    color: red;
+    color: #000000;
 }
 
 .value {
@@ -218,7 +205,7 @@
     margin: 0;
     padding-top: 10px;
     padding-bottom: 10px;
-    color: red;
+    color: black;
 }
 
 .lessonplan-list {
@@ -228,6 +215,7 @@
     margin: 0;
     padding: 6px;
     padding-bottom: 10px;
+    float: left;
 }
 
 h3 {
@@ -269,6 +257,14 @@ h3 {
     text-align: center;
 }
 
+/* ---------------------------body */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
 /* --------------------------footer */
 footer {
     background-color: #416941;
@@ -279,6 +275,7 @@ footer {
     color: #ff0;
     min-height: 120px;
     margin: 0; 
+    margin-top: auto;
 }
 
 
@@ -286,6 +283,7 @@ footer {
     padding-bottom: 15px;
     text-align: center;
     padding-top: 25px;
+
 }
 
 .social-links li {
