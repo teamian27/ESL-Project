@@ -62,8 +62,8 @@
         font-size: 52px;
         margin-top: 50px;
         color: #ffffff;
-        padding-left: 25px;
-        padding-top: 50px;
+        padding-top: 30px;
+        text-align: center;
         
     }
 
@@ -71,10 +71,10 @@
         font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 32px;
-        margin-top: 20px;
+        margin-top: 30px;
         margin-bottom: 90px;
         color: #ffffff;
-        padding-left: 25px;
+        text-align: center;
     }
 
     .list-inline-item:not(:last-child) {
