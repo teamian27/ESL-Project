@@ -121,7 +121,11 @@
 
 .nav-bar li a :hover {
     background: #8f8f8f;
+}
 
+.home {
+    text-decoration: blue underline;
+    text-decoration-thickness: 3px;
 }
 
 
@@ -146,12 +150,12 @@
 
 
 .sentencestory {
-     padding-top: 10px;
-     
+     padding-top: 20px;
+     padding-bottom: 20px;
      display: block;
      padding-left: 10px;
      width: 50%;
-     float: right;
+     
      
 }
 
@@ -345,6 +349,7 @@ button[type=submit] {
     margin-bottom: 20px;
     color: #ff0;
     background-color: #4169e1;
+    align-items: center;
 }
 
 .myclass+label {
@@ -369,6 +374,8 @@ button[type=submit] {
     overflow: hidden;
     position: absolute;
     z-index: -1;
+    
+
 }
 
     /* --------------------------Media Queries */
