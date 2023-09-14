@@ -48,7 +48,7 @@ On the header and footer I have incorporated a chalk board, to give it a more ed
 ## Features on all Pages
 
 ### Header
-
+![header] (docs/screenshots/header.jpg)
 The header is the same on all pages to make the site uniform, there are some variations - see lesson plans.
 
 There is an English Language logo in the top right on the picture, along side this I have placed a page title "ESL Resources" on a chalk board background.
@@ -58,7 +58,7 @@ There is an English Language logo in the top right on the picture, along side th
 The navigation bar can be found at the top of the page, I have chosen to use the colours blue and yellow, as it makes the nav bar stand out and it is a colour I use in many of my teaching resources so I want to keep my personal theme involved.
 
 ### Footer
-
+![footer] (docs/screenshots/footer.jpg)
 The footer is basic, a small note explaining the use of the page, and some social media links, on a chalk board background, again keeping it simple and this is uniformed across all pages on the site.
 
 ### Fonts
@@ -73,6 +73,8 @@ I have a lot of material available from my years of teaching, but decided to onl
 
 ### Index page
 
+![Home-Page] (docs/screenshots/home-screenshot.jpg)
+
 There is a menu on the left of the page with the different lesson plans, as well as the plans listed in the main section of the page, in the main section I have also added picture links to the lesson pages.
 
 This wasn't the original design, as originally there was an about me section and 2 paragraphs giving some information about about what is on the website.
@@ -81,21 +83,29 @@ After a 2am epiphany, I changed the style of the page, I made the what was the o
 
 ### Halloween Page
 
+![Halloween] (docs/screenshots/halloween-screenshot.jpg)
+
 This features a layout with two menu bars on the left and right of the centre section, the menu bar on the left, allows the user, to navigate between lessons, to go back to the music lesson, otherwise they would need to go back to the home page and then select 'Music'. The menu on the right, has downloads and links, allowing the user to download the lesson plan and the PowerPoint document. The links go to resources that I used to create the lesson.
 
 The main section of the page, is the lesson plan written out on the page, so a teacher can have a quick review before downloading it. I features a picture in the middle of the page, showing an example of a 'Two Sentence Horror Story'.
 
 ### Music Page
 
+![Music] (docs/screenshots/music-screenshot.jpg)
+
 The Music lesson page has a similar layout to the Halloween lesson page, featuring two menus on the sides of the page, with a centre section. The page features some instructional text at the top of the page, and some links to the PowerPoints below. As this lesson doesn't have a full lesson plan, there isn't one provided, this is a task to be inserted into a lesson, rather than a full lesson plan.  Clicking on the links takes you to a new tab, which contains the downloadable PowerPoint.  
 
 ### Contact me Page
+
+![Contact-me] (docs/screenshots/contact-screenshot.jpg)
 
 This is a form, allowing the user to fill in their details and a description to give me some feedback on the lessons. There is an upload button as well as a submit button, to let the user send me a lesson plan or file, which they feel could be shared on my site.
 
 Once the form has been filled in, and the users clicks send lesson plan, it takes the user to a new page to 'Thank them for their submission'. As we haven't done any work on creating a datebase for the forms to go to, I have created a dummy thank you page. In the future I attend to add a database for it.
 
 ### Links Page
+
+![Links] (docs/screenshots/links-screenshots.jpg)
 
 This page has changed names a few times through the project, it has gone between Links and Resources. After some testing by friends, I finally decided to settle on Links, as Resources caused confusion, every user clicked on the resources link, thinking this is where the lesson plans would be be.
 
@@ -166,10 +176,6 @@ This was the first page I have ever created on my own, so I did have the problem
 - **Issue** - When padding text and images I found it would look uneven or off centre when minimising for mobile.
 - **Solution** - I was using 'px' and this wasn't converting well, when I changed the padding to % it centered better.
 
-9. afgsdafg
-
-- **Issue** -
-- **Solution** -
 
 ## Deployment
 
@@ -202,6 +208,4 @@ There were a few resources I used a lot, to help me understand some features I w
 - Code institute lessons on HTML and CSS
 - The Love Running Project from Code Institute
 
-## Content
 
-## Media
