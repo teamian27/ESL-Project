@@ -105,7 +105,7 @@ Once the form has been filled in, and the users clicks send lesson plan, it take
 
 ### Links Page
 
-![Links](docs/screenshots/links-screenshots.jpg)
+![Links](docs/screenshots/links-screenshot.jpg)
 
 This page has changed names a few times through the project, it has gone between Links and Resources. After some testing by friends, I finally decided to settle on Links, as Resources caused confusion, every user clicked on the resources link, thinking this is where the lesson plans would be be.
 
