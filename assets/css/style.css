@@ -1,391 +1,386 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 /* --------------------------Colors */
+
 .bg-color-name-title {
-    background-color: #416941;
+background-color: #416941;
 }
 
 .ui-menu-color-home {
-    background-color: #ff0;
+background-color: #ff0;
 }
 
 .ui-menu-color-contact {
-    background-color: #ff0;
+background-color: #ff0;
 }
 
 .ui-menu-color-download {
-    background-color: #ff0
-    ;
+background-color: #ff0
+;
 }
 .bg-color-about-me {
-    background-color: rgba(255, 220, 24, 0.767);
+background-color: rgba(255, 220, 24, 0.767);
 }
 
 .bg-color-main-text {
-    background-color: #bdbaba8a;
-    min-height: 47vh;
-
+background-color: #bdbaba8a;
+min-height: 47vh;
 }
 
-  
 /* --------------------------header */
 
-        header {
-            margin: 0;
-        }
-    
-        .heading {
-            margin-left: 50px;}
+header {
+margin: 0;
+}
 
-    .background-image{
-            background-color: #416941;
-            background-position: center;
-            background-repeat: no-repeat;
-            background-size: cover;
-            min-height: 280px;
-    }
+.heading {
+margin-left: 50px;}
 
-    .logo {
-        background: url("../images/Chalkboard.jpg");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        min-height: 360px;
-        transition: all .5s ease-in-out;
-        -moz-transition: all .5s ease-in-out;
-        -webkit-transition: all .5s ease-in-out;
-    }
+.background-image{
+background-color: #416941;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 330px;
+}
 
-    .name {
-        font-family: "Roboto", sans-serif;
-        font-weight: 600;
-        font-size: 52px;
-        margin-top: 50px;
-        color: #ffffff;
-        padding-top: 30px;
-        text-align: center;
-        
-    }
+.logo {
+background: url("../images/chalkboard.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 360px;
+transition: all .5s ease-in-out;
+-moz-transition: all .5s ease-in-out;
+-webkit-transition: all .5s ease-in-out;
+}
 
-    .title {
-        font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-size: 32px;
-        margin-top: 30px;
-        margin-bottom: 90px;
-        color: #ffffff;
-        text-align: center;
-    }
+.name {
+font-family: "Roboto", sans-serif;
+font-weight: 600;
+font-size: 52px;
+margin-top: 50px;
+color: #ffffff;
+padding-top: 30px;
+text-align: center;  
+}
 
-    .list-inline-item:not(:last-child) {
-        margin: 0;
-    }
-    .menucontainer {
-        font-size: 0;
+.title {
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 32px;
+margin-top: 30px;
+margin-bottom: 90px;
+color: #ffffff;
+text-align: center;
+}
 
-    }
+.list-inline-item:not(:last-child) {
+margin: 0;
+}
 
-    #nav {
-        margin: 0;
-    }
+.menucontainer {
+font-size: 0;
+}
 
-    #nav li {
-        font-size: 20px;
-        padding: 0;
-    }
+#nav {
+margin: 0;
+}
 
-    .menuitem {
-        height: 80px;
-        text-align: center;
-        padding: 0;
-        
-    }
+#nav li {
+font-size: 20px;
+padding: 0;
+}
 
-    .menuitem a {
-        width: 100%;
-        text-decoration: none;
-        color: #4169e1;
-        height: 120px;
-        font-family:"Roboto", sans-serif ;
-    }
+.menuitem {
+height: 80px;
+text-align: center;
+padding: 0; 
+}
 
-    .menuitem span {
-        display: block;
-        width: 100%;
-        padding-top: 20px;
-        text-align: center;
-        text-transform: uppercase;
-        font-size: 25px;
-        font-weight: 500;
-        letter-spacing: 2px;
-    }
+.menuitem a {
+width: 100%;
+text-decoration: none;
+color: #4169e1;
+height: 120px;
+font-family:"Roboto", sans-serif ;
+}
+
+.menuitem span {
+display: block;
+width: 100%;
+padding-top: 20px;
+text-align: center;
+text-transform: uppercase;
+font-size: 20px;
+font-weight: 500;
+letter-spacing: 2px;
+}
 
 .nav-bar li a :hover {
-    background: #8f8f8f;
+background: #8f8f8f;
 }
 
 .home {
-    text-decoration: blue underline;
-    text-decoration-thickness: 3px;
+text-decoration: blue underline;
+text-decoration-thickness: 3px;
 }
-
 
 /*---------------------------- menu and list */
 
 .no-bullet {
-    list-style-type: none;
+list-style-type: none;
 }
 
 .lessonplan-list {
-    display: inline-block;
-    text-align: center;
-    font-size: 60px;
-    font-family: "Roboto", sans-serif;
-
+display: inline-block;
+text-align: center;
+font-size: 60px;
+font-family: "Roboto", sans-serif;
 }
 
 .list-type {
-    float: left;
+float: left;
 }
 
 /*---------------------------- images */
 
-
 .sentencestory {
-     padding-top: 20px;
-     padding-bottom: 20px;
-     display: block;
-     padding-left: 10px;
-     width: 50%;
-     
-     
+padding-top: 20px;
+padding-bottom: 20px;
+display: block;
+padding-left: 10px;
+width: 50%;
 }
 
 .uberstory {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    display: block;
-   
-    width: 40%;
-    height: auto;
+padding-top: 20px;
+padding-bottom: 20px;
+display: block;
+width: 350px;
+height: auto;
+margin-left: auto;
+margin-right: auto;
 }
 
 /* -------------------------text */
+
 .uppercase {
-    text-transform: uppercase;
+text-transform: uppercase;
 }
 
 .intro-title{
-    color: white;
-    padding-top: 40px;
-    text-align: center;
+color: white;
+padding-top: 40px;
+text-align: center;
 }
 
-.music-text
-{
-        font-size: 21px;
-        font-family: "EXO";
-        font-weight: 400;
-        margin: 0;
-        padding-top: 20px;
-        padding-bottom: 20px;
-        letter-spacing: 1px;
-        color: black;
-        text-align: center;
-    }
+.music-text {
+font-size: 21px;
+font-family: "EXO";
+font-weight: 400;
+margin: 0;
+padding-top: 20px;
+padding-bottom: 20px;
+letter-spacing: 1px;
+color: black;
+text-align: center;
+padding-right:15px ;
+}
 
 .section-header {
-    padding-top: 30px;
-    padding-bottom: 5px;
-    text-align: center;
-    font-family: "Roboto", sans-serif;
+padding-top: 30px;
+padding-bottom: 5px;
+text-align: center;
+font-family: "Roboto", sans-serif;
 }
-
 
 .intro-text {
-    font-size: 21px;
-    font-family: "EXO";
-    font-weight: 400;
-    margin: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    letter-spacing: 1px;
-    color: white;
-    text-align: center;
-    padding-right: 30px;
+font-size: 21px;
+font-family: "EXO";
+font-weight: 400;
+margin: 0;
+padding-top: 20px;
+padding-bottom: 20px;
+letter-spacing: 1px;
+color: white;
+text-align: center;
+padding-right: 30px;
 }
+
 .key {
-    font-size: 25px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 600;
-    margin: 0;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    color: #4169e1;
+font-size: 25px;
+font-family: "Roboto", sans-serif;
+font-weight: 600;
+margin: 0;
+padding-top: 5px;
+padding-bottom: 5px;
+color: #4169e1;
+text-align: center;
 }
 
 .value {
-    font-size: 25px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    margin: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: black;
+font-size: 25px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+margin: 0;
+padding-top: 10px;
+padding-bottom: 10px;
+color: black;
 }
 
 .lessonplan-list {
-    font-size: 22px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    margin: 0;
-    padding: 6px;
-    padding-bottom: 10px;
-    float: left;
+font-size: 22px;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+margin: 0;
+padding: 6px;
+padding-bottom: 10px;
+float: left;
 }
 
 h3 {
-    text-transform: uppercase;
-    font-weight: 400;
+text-transform: uppercase;
+font-weight: 400;
 }
 
 .uberstorytext {
-    padding-left: 20px;
-    padding-top: 5px;
-    padding-bottom: 10px;
-    float: left;
-       
+padding-top: 5px;
+padding-bottom: 10px;
+text-align: center;
+font-size: 22px;
 }
 
 .footer-text {
-    font-size: 16px;
-    font-weight: 100;
-    margin-left: 30%;
+font-size: 16px;
+font-weight: 100;
+margin-left: 30%;
 }
 
 .footer-text-two {
-    font-size: 12px;
-    font-weight: 100;
-    margin-left: 42%;
+font-size: 12px;
+font-weight: 100;
+margin-left: 42%;
 }
 
 .halloween-body {
-    padding-bottom: 20px;
+padding-bottom: 20px;
 }
-
 
 /* ---------------------------body */
 
 body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+display: flex;
+flex-direction: column;
+min-height: 100vh;
 }
 
 /* --------------------------footer */
+
 footer {
-    background-color: #416941;
-    background: url("../images/Chalkboard.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #ff0;
-    min-height: 120px;
-    margin: 0; 
-    margin-top: auto;
+background-color: #416941;
+background: url("../images/chalkboard.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+color: #ff0;
+min-height: 120px;
+margin: 0; 
+margin-top: auto;
 }
 
-
 .social-links {
-    padding-bottom: 15px;
-    text-align: center;
-    padding-top: 25px;
-
+padding-bottom: 15px;
+text-align: center;
+padding-top: 25px;
 }
 
 .social-links li {
-    display: inline;
-
+display: inline;
 }
 
 .social-links li a i {
-    width: 50px;
-    height: 50px;
-    padding: 25px 0;
-    border-radius: 25%;
-    font-size: 35px;
-    line-height: 7px;
-    text-align: center;
-    color: #4169e1;
-    background: #8f8f8f;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+width: 50px;
+height: 50px;
+padding: 25px 0;
+border-radius: 25%;
+font-size: 35px;
+line-height: 7px;
+text-align: center;
+color: #4169e1;
+background: #8f8f8f;
+transition: all 0.35s ease-in-out;
+-moz-transition: all 0.35s ease-in-out;
+-webkit-transition: all 0.35s ease-in-out;
+-o-transition: all 0.35s ease-in-out;
 }
 
 .social-links li a i:hover {
-    background: #ff0;
+background: #ff0;
 }
 
 #footer-details {
-    padding: 20px;
+padding: 20px;
 }
 
-
 /* --------------------------Contact Form */
+
 .contact-heading {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
+font-family: "Roboto", sans-serif;
+font-weight: 300;
+margin-top: 25px;
+margin-bottom: 20px;
 }
 
 .center-form {
-    padding-top: 10px;
-    margin: 0 auto;
-    max-width: 70%;
+padding-top: 10px;
+margin: 0 auto;
+max-width: 70%;
 }
 
 button[type=submit] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #ff0;
-    background-color: #4169e1;
-    align-items: center;
+margin-top: 15px;
+margin-bottom: 20px;
+color: #ff0;
+background-color: #4169e1;
+align-items: center;
 }
 
 .myclass+label {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    color: #ff0;
-    background-color: #4169e1;
-    padding: 7.5px 18px;
-    border-radius: 6px;
-    display: inline-block;
+margin-top: 15px;
+margin-bottom: 20px;
+color: #ff0;
+background-color: #4169e1;
+padding: 7.5px 18px;
+border-radius: 6px;
+display: inline-block;
 }
 
 .myclass:focus+label,
 .myclass+label:hover {
-    background-color: grey;
+background-color: grey;
 }
 
 .myclass {
-    width: 0.1px;
-    height: 0.1px;
-    opacity: 0;
-    overflow: hidden;
-    position: absolute;
-    z-index: -1;
-    
-
+width: 0.1px;
+height: 0.1px;
+opacity: 0;
+overflow: hidden;
+position: absolute;
+z-index: -1;
 }
 
-    /* --------------------------Media Queries */
-@media(min-width: 992px) {
-    .center-form {
-        padding-top: 30px;
-        min-height: 240px;
-        margin: 0 auto;
-        max-width: 50%;
+/* --------------------------Media Queries */
+
+@media (max-width: 1200px) {
+.center-form {
+padding-top: 30px;
+min-height: 240px;
+margin: 0 auto;
+max-width: 50%;
 } }
+
+@media (max-width 1200) {
+.column {
+width: 100%;
+}  }
