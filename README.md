@@ -185,24 +185,24 @@ This was the first page I have ever created on my own, so I did have the problem
 
 ## Credits  
 
-[Chalkboard photo](https://pixabay.com/images/search/blackboard/)
-[Music image on homepage](https://charitydigital.org.uk/topics/topics/the-best-platforms-for-copyright-free-music-9577)
-[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)
-[Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)
-Present Simple picture - Music lesson - This is a screenshot from my PowerPoint
-Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint
+[Chalkboard photo](https://pixabay.com/images/search/blackboard/)  
+[Music image on homepage](https://charitydigital.org.uk/topics/topics/the-best-platforms-for-copyright-free-music-9577)  
+[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
+[Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
+Present Simple picture - Music lesson - This is a screenshot from my PowerPoint  
+Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint  
 
 ### Code Borrowed
 
 To create the upload button I used W3Schools code - and modified it to fit my design
-<label for="file">Upload a Lesson Plan</label> - [w3schools](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)
+<label for="file">Upload a Lesson Plan</label> - [w3schools](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)  
 
 To personalise the button I followed the instructions here, modifying the colours and shape to suit my design
 [dev.to](https://dev.to/faddalibrahim/how-to-create-a-custom-file-upload-button-using-html-css-and-javascript-1c03)
 
 ### General Reference
 
-The project base was influenced by the bootstrap project, designing a resume, I liked the layout of the page, and felt it would work for my idea.
+The project base was influenced by the bootstrap project, designing a resume, I liked the layout of the page, and felt it would work for my idea.  
 
 There were a few resources I used a lot, to help me understand some features I wanted to try, and look at code I could use:
 - W3Schools
