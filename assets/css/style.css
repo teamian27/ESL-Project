@@ -384,8 +384,3 @@ min-height: 240px;
 margin: 0 auto;
 max-width: 50%;
 } }
-
-@media (max-width 1200) {
-.column {
-width: 100%;
-}  }
