@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
-        type="text/css" />
+        type="text/css">
     <title>Project ESL</title>
 </head>
 <body>
@@ -51,6 +51,7 @@
                     </div>
                 </div>
             </div>
+        </div>
     </header>
     <section class="container-fluid">
         <div class="row bg-color-main-text">
@@ -59,16 +60,16 @@
                 <h5 class="uppercase text-center">Send them to me, and I will upload</h5>
                 <div class="center-form">
                     <form action ="form-feedback.html" method="GET">
-                        <label for="name">Your Name <span class="mandatory">*</span></label>
-                        <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" aria-label="Name" required />
-                        <label for="email">Your Email Address <span class="mandatory">*</span></label>
-                        <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" aria-label="Email Addeess" required />
-                        <label for="content">Project Description <span class="mandatory">*</span></label>
+                        <label for="fullname">Your Name <span class="mandatory">*</span></label>
+                        <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" aria-label="Name" required>
+                        <label for="emailaddress">Your Email Address <span class="mandatory">*</span></label>
+                        <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" aria-label="Email Addeess" required>
+                        <label for="projectsummary">Project Description <span class="mandatory">*</span></label>
                         <textarea rows="5" name="projectsummary" id="projectsummary" class="form-control" placeholder="Project description" aria-label="Type Project Description" required></textarea>
                         <div class="form-row text-centre">
                             <div class="col" style="display: flex;flex-direction: column;">
-                                <p class="upload"></p> Click on the "Upload a Lesson Plan" button to upload a file:</p>
-                                <input type="file" name="file" id="file" class="myclass" />
+                                <p class="upload"> Click on the "Upload a Lesson Plan" button to upload a file:</p>
+                                <input type="file" name="file" id="file" class="myclass">
                                 <label for="file">Upload a Lesson Plan</label>
                                 <button type="submit" class="btn btn-secondary">Send Lesson Plan</button>
                             </div>
