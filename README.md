@@ -48,7 +48,8 @@ On the header and footer I have incorporated a chalk board, to give it a more ed
 ## Features on all Pages
 
 ### Header
-![header](docs/screenshots/header.jpg)
+![header](docs/screenshots/header.jpg)  
+
 The header is the same on all pages to make the site uniform, there are some variations - see lesson plans.
 
 There is an English Language logo in the top right on the picture, along side this I have placed a page title "ESL Resources" on a chalk board background.
@@ -58,7 +59,8 @@ There is an English Language logo in the top right on the picture, along side th
 The navigation bar can be found at the top of the page, I have chosen to use the colours blue and yellow, as it makes the nav bar stand out and it is a colour I use in many of my teaching resources so I want to keep my personal theme involved.
 
 ### Footer
-![footer](docs/screenshots/footer.jpg)
+![footer](docs/screenshots/footer.jpg)  
+
 The footer is basic, a small note explaining the use of the page, and some social media links, on a chalk board background, again keeping it simple and this is uniformed across all pages on the site.
 
 ### Fonts
@@ -73,7 +75,7 @@ I have a lot of material available from my years of teaching, but decided to onl
 
 ### Index page
 
-![Home-Page](docs/screenshots/home-screenshot.jpg)
+![Home-Page](docs/screenshots/screenshot-homepage.jpg)  
 
 There is a menu on the left of the page with the different lesson plans, as well as the plans listed in the main section of the page, in the main section I have also added picture links to the lesson pages.
 
@@ -83,7 +85,7 @@ After a 2am epiphany, I changed the style of the page, I made the what was the o
 
 ### Halloween Page
 
-![Halloween](docs/screenshots/halloween-screenshot.jpg)
+![Halloween](docs/screenshots/screenshot-halloween.jpg)  
 
 This features a layout with two menu bars on the left and right of the centre section, the menu bar on the left, allows the user, to navigate between lessons, to go back to the music lesson, otherwise they would need to go back to the home page and then select 'Music'. The menu on the right, has downloads and links, allowing the user to download the lesson plan and the PowerPoint document. The links go to resources that I used to create the lesson.
 
@@ -91,13 +93,13 @@ The main section of the page, is the lesson plan written out on the page, so a t
 
 ### Music Page
 
-![Music](docs/screenshots/music-screenshot.jpg)
+![Music](docs/screenshots/screenshot-music.jpg)  
 
 The Music lesson page has a similar layout to the Halloween lesson page, featuring two menus on the sides of the page, with a centre section. The page features some instructional text at the top of the page, and some links to the PowerPoints below. As this lesson doesn't have a full lesson plan, there isn't one provided, this is a task to be inserted into a lesson, rather than a full lesson plan.  Clicking on the links takes you to a new tab, which contains the downloadable PowerPoint.  
 
 ### Contact me Page
 
-![Contact-me](docs/screenshots/contact-screenshot.jpg)
+![Contact-me](docs/screenshots/screenshot-contact-me.jpg)  
 
 This is a form, allowing the user to fill in their details and a description to give me some feedback on the lessons. There is an upload button as well as a submit button, to let the user send me a lesson plan or file, which they feel could be shared on my site.
 
@@ -105,7 +107,7 @@ Once the form has been filled in, and the users clicks send lesson plan, it take
 
 ### Links Page
 
-![Links](docs/screenshots/links-screenshot.jpg)
+![Links](docs/screenshots/screenshot-links.jpg)  
 
 This page has changed names a few times through the project, it has gone between Links and Resources. After some testing by friends, I finally decided to settle on Links, as Resources caused confusion, every user clicked on the resources link, thinking this is where the lesson plans would be be.
 
@@ -135,9 +137,9 @@ How I tested the page:
 
 This was the first page I have ever created on my own, so I did have the problem of missing out a closing bracket and finding the page didn't want to work, or not closing a 'div' properly. This did leading to some frustrating moments early on, but I did become wiser to these mistakes quite quickly.
 
-### Problem
+### Problem  
 
-1. Centering the Social Media links in the footer.
+1. Centering the Social Media links in the footer.  
 
 - **Issue** - The social media links seemed to be stay in the left hand corner, and wouldn't stay in a row on a mobile screen.
 - **Solution** - I found that I had made the section sm-4, by expanding it to sm-12 and taking up the whole footer it centered easily. This was a simple fix that frustrated me.
@@ -177,24 +179,26 @@ This was the first page I have ever created on my own, so I did have the problem
 - **Solution** - I was using 'px' and this wasn't converting well, when I changed the padding to % it centered better.
 
 
-## Deployment
+## Deployment  
 
-## Credits
 
-Chalkboard photo - <https://pixabay.com/images/search/blackboard/>
-Music image on homepage - <https://charitydigital.org.uk/topics/topics/the-best-platforms-for-copyright-free-music-9577>
-Two Sentence Horror Story image - main menu <https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic>
-Two Sentence Horror Story image - Halloween lesson <https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic>
+
+## Credits  
+
+[Chalkboard photo](https://pixabay.com/images/search/blackboard/)
+[Music image on homepage](https://charitydigital.org.uk/topics/topics/the-best-platforms-for-copyright-free-music-9577)
+[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)
+[Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)
 Present Simple picture - Music lesson - This is a screenshot from my PowerPoint
 Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint
 
 ### Code Borrowed
 
 To create the upload button I used W3Schools code - and modified it to fit my design
-<label for="file">Upload a Lesson Plan</label> - <https://www.w3schools.com/howto/howto_html_file_upload_button.asp>
+<label for="file">Upload a Lesson Plan</label> - [w3schools](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)
 
 To personalise the button I followed the instructions here, modifying the colours and shape to suit my design
-<https://dev.to/faddalibrahim/how-to-create-a-custom-file-upload-button-using-html-css-and-javascript-1c03>
+[dev.to](https://dev.to/faddalibrahim/how-to-create-a-custom-file-upload-button-using-html-css-and-javascript-1c03)
 
 ### General Reference
 
