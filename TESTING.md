@@ -75,8 +75,30 @@ This was the first page I have ever created on my own, so I did have the problem
 
 ![css-validator](docs/screenshots/css-validator.jpg)
 
+## Lighthouse
 
+I tested every page using the development tool lighthouse, all pages tested within the 90-100 area, which was excellent, I used incognito page to test as recommended by the lighthouse user guide. Below are screenshots from the result.
 
-### Accessability
+### Home Page
+
+![lighthouse-home](docs/screenshots/lighthouse-home.jpeg)
+
+### Contact Me Page
+
+![lighthouse-contact]()
+
+### Links Page
+
+![lighthouse-links](docs/screenshots/lighthouse-links.jpeg)
+
+### Halloween Page
+
+![lighthouse-halloween](docs/screenshots/lighthouse-halloween.jpeg)
+
+### Music Page
+
+![lighthouse-music](docs/screenshots/lighthouse-music.jpeg)
+
+## Accessability
 
 I used the [WAVE-Web Accessability Evalution Tool](https://wave.webaim.org/) to check the accessability of my page, it came back with 2 errors, containing to the font colors agains the chalkboard background, I tried other colours which it said had better contrast, but I disagree. After reviewing my results and testing different font colours, I believe the yellow against the chalkboard stands out better than most. 

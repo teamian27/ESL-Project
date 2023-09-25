@@ -1,3 +1,4 @@
+![am-i-responsive](docs/screenshots/am-i-responsive.jpeg)
 
 ## Site Overview
 
@@ -132,7 +133,7 @@ I have created a new file called [TESTING.md](TESTING.md) which details the test
 
 ## Deployment  
 
-
+To deploy the site, I used Github, opening the repository for the project - ESL-Project. From there I went to the settings, and then opened up the pages tab, from there I selected the 'deploy from branch' the site took 24 hours to deploy.
 
 ## Credits  
 
