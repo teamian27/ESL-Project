@@ -1,5 +1,8 @@
 ![am-i-responsive](docs/screenshots/am-i-responsive.jpeg)
 
+Menu
+
+
 ## Site Overview
 
 The idea behind this site is share the resources I made when I was an ESL (English as a Second Language) Teacher. I have only used two of the lesson plans I have created in this site, I have chosen two of my favourite lessons for the current form of the site. The main purpose of the site it to share fun activities that will make lessons fun for the teachers and students, my philosophy is that learning should be fun. I have plenty of resources to share, and I hope it helps make learning fun. The lessons on the site are mainly aimed at teenagers and adults, as I specialised in teaching these groups, so they won't be resources for children, there are a lot of websites dedicated to this online.
@@ -37,6 +40,22 @@ The idea behind this site is share the resources I made when I was an ESL (Engli
 - I want to keep the website simple, as I want the user to find what they need without too much noise on the page, simple layout, with easy to navigate menu bars.
 
 ## Wireframes
+
+### Home Page
+  * Desktop
+  * Tablet
+  * Mobile
+
+### Contact Me
+  * Desktop
+  * Tablet
+  * Mobile
+
+### Links
+  * Desktop
+  * Tablet
+  * Mobile
+
 
 ## Colour Scheme
 

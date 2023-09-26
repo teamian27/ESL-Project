@@ -1,3 +1,11 @@
+
+## Menu
+ * [testing](#testing)
+ * [issues-and-bugs](#issues-and-bugs)
+ * [validators](#validators)
+ * [lighthouse](#lighthouse)
+ * [accessability](#accessability)
+
 ## Testing
 
 How I tested the page:
@@ -85,7 +93,7 @@ I tested every page using the development tool lighthouse, all pages tested with
 
 ### Contact Me Page
 
-![lighthouse-contact]()
+![lighthouse-contact](docs/screenshots/lighthouse-contact.jpg)
 
 ### Links Page
 
