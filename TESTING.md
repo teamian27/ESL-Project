@@ -1,10 +1,20 @@
 
 ## Menu
- * [testing](#testing)
- * [issues-and-bugs](#issues-and-bugs)
- * [validators](#validators)
- * [lighthouse](#lighthouse)
- * [accessability](#accessability)
+- [Menu](#menu)
+- [Testing](#testing)
+- [Issues and Bugs](#issues-and-bugs)
+  - [Problems](#problems)
+- [Validators](#validators)
+  - [HTML](#html)
+    - [Issues found](#issues-found)
+  - [CSS](#css)
+- [Lighthouse](#lighthouse)
+  - [Home Page](#home-page)
+  - [Contact Me Page](#contact-me-page)
+  - [Links Page](#links-page)
+  - [Halloween Page](#halloween-page)
+  - [Music Page](#music-page)
+- [Accessability](#accessability)
 
 ## Testing
 
@@ -25,7 +35,7 @@ I tested the site on the following:
 
 This was the first page I have ever created on my own, so I did have the problem of missing out a closing bracket and finding the page didn't want to work, or not closing a 'div' properly. This did leading to some frustrating moments early on, but I did become wiser to these mistakes quite quickly.
 
-### Problem  
+### Problems  
 
 1. Centering the Social Media links in the footer.  
 
@@ -71,7 +81,7 @@ This was the first page I have ever created on my own, so I did have the problem
 
 ### HTML
 
-#### Issue found
+#### Issues found
 
 * The issue I had was that I had an open div without a close, it was because I re-edited the page and removed the close div by accident, closing the div solved the issue.
 * I had used section tags without having a heading tag following them, so I changed it to a div tag.

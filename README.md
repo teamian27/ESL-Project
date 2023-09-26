@@ -1,7 +1,38 @@
 ![am-i-responsive](docs/screenshots/am-i-responsive.jpeg)
 
-Menu
-
+## Menu
+- [Menu](#menu)
+- [Site Overview](#site-overview)
+- [**Planning stage**](#planning-stage)
+  - [**Target Audiences:**](#target-audiences)
+  - [**User Stories:**](#user-stories)
+  - [**Site Aims:**](#site-aims)
+  - [**How Is This Will Be Achieved:**](#how-is-this-will-be-achieved)
+- [Wireframes](#wireframes)
+  - [Home Page](#home-page)
+  - [Contact Me](#contact-me)
+  - [Lesson](#lesson)
+- [Color Scheme](#color-scheme)
+- [Wallpaper and Header](#wallpaper-and-header)
+- [Features on all Pages](#features-on-all-pages)
+  - [Header](#header)
+  - [The Navigation bar](#the-navigation-bar)
+  - [Footer](#footer)
+  - [Fonts](#fonts)
+- [Page contents features](#page-contents-features)
+  - [Site design](#site-design)
+  - [Index page](#index-page)
+  - [Halloween Page](#halloween-page)
+  - [Music Page](#music-page)
+  - [Contact me Page](#contact-me-page)
+  - [Links Page](#links-page)
+- [Future Enhancements](#future-enhancements)
+  - [My expansion plans](#my-expansion-plans)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+  - [Code Borrowed](#code-borrowed)
+  - [General Reference](#general-reference)
 
 ## Site Overview
 
@@ -42,22 +73,24 @@ The idea behind this site is share the resources I made when I was an ESL (Engli
 ## Wireframes
 
 ### Home Page
-  * Desktop
-  * Tablet
-  * Mobile
+
+* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-home.jpg)
+* [Tablet](/workspaces/ESL-Project/docs/wireframes/home-tablet.jpg)
+* [Mobile](/workspaces/ESL-Project/docs/wireframes/phone-home.jpg)
 
 ### Contact Me
-  * Desktop
-  * Tablet
-  * Mobile
 
-### Links
-  * Desktop
-  * Tablet
-  * Mobile
+* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-contact.jpg)
+* [Tablet](/workspaces/ESL-Project/docs/wireframes/contact-tablet.jpg)
+* [Mobile](/workspaces/ESL-Project/docs/wireframes/contact-phone.jpg)
 
+### Lesson
 
-## Colour Scheme
+* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-lesson.jpg)
+* [Tablet](/workspaces/ESL-Project/docs/wireframes/lesson-tablet.jpg)
+* [Mobile](/workspaces/ESL-Project/docs/wireframes/phone-lesson.jpg)
+
+## Color Scheme
 
 I have kept the colour scheme similar across all the pages, as I want to use a colour frame that I used when I created lessons and PowerPoints. The background on all text blocks is a light grey as I find this is easier on the eyes, white is sometimes too bright, so I wanted to dull the colour. I have used Blue and Yellow for my menu and links, as they are colours I try to use a lot, as a nod to my favourite football team.
 
@@ -68,6 +101,7 @@ On the header and footer I have incorporated a chalk board, to give it a more ed
 ## Features on all Pages
 
 ### Header
+
 ![header](docs/screenshots/header.jpg)  
 
 The header is the same on all pages to make the site uniform, there are some variations - see lesson plans.
@@ -78,7 +112,8 @@ There is an English Language logo in the top right on the picture, along side th
 
 The navigation bar can be found at the top of the page, I have chosen to use the colours blue and yellow, as it makes the nav bar stand out and it is a colour I use in many of my teaching resources so I want to keep my personal theme involved.
 
-### Footer
+### Footer 
+
 ![footer](docs/screenshots/footer.jpg)  
 
 The footer is basic, a small note explaining the use of the page, and some social media links, on a chalk board background, again keeping it simple and this is uniformed across all pages on the site.
