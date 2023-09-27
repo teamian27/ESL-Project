@@ -15,9 +15,9 @@ background-color: #ff0;
 }
 
 .ui-menu-color-download {
-background-color: #ff0
-;
+background-color: #ff0; 
 }
+
 .bg-color-about-me {
 background-color: rgba(255, 220, 24, 0.767);
 }
@@ -167,7 +167,7 @@ margin-right: auto;
 /* -------------------------text */
 
 .mandatory {
-    color: red;
+color: red;
 }
 
 .uppercase {

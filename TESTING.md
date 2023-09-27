@@ -1,22 +1,24 @@
+# **Testing.md**
 
 ## Menu
-- [Menu](#menu)
-- [Testing](#testing)
-- [Issues and Bugs](#issues-and-bugs)
-  - [Problems](#problems)
-- [Validators](#validators)
-  - [HTML](#html)
-    - [Issues found](#issues-found)
-  - [CSS](#css)
-- [Lighthouse](#lighthouse)
-  - [Home Page](#home-page)
-  - [Contact Me Page](#contact-me-page)
-  - [Links Page](#links-page)
-  - [Halloween Page](#halloween-page)
-  - [Music Page](#music-page)
-- [Accessability](#accessability)
+- [**Testing.md**](#testingmd)
+  - [Menu](#menu)
+  - [**Testing**](#testing)
+  - [**Issues and Bugs**](#issues-and-bugs)
+    - [**Problems**](#problems)
+  - [**Validators**](#validators)
+    - [**HTML**](#html)
+      - [**Issues found**](#issues-found)
+    - [**CSS**](#css)
+  - [**Lighthouse**](#lighthouse)
+    - [**Home Page**](#home-page)
+    - [**Contact Me Page**](#contact-me-page)
+    - [**Links Page**](#links-page)
+    - [**Halloween Page**](#halloween-page)
+    - [**Music Page**](#music-page)
+  - [**Accessability**](#accessability)
 
-## Testing
+## **Testing**
 
 How I tested the page:
 
@@ -31,11 +33,11 @@ I tested the site on the following:
 * Edge - via desktop
 
 
-## Issues and Bugs
+## **Issues and Bugs**
 
 This was the first page I have ever created on my own, so I did have the problem of missing out a closing bracket and finding the page didn't want to work, or not closing a 'div' properly. This did leading to some frustrating moments early on, but I did become wiser to these mistakes quite quickly.
 
-### Problems  
+### **Problems**  
 
 1. Centering the Social Media links in the footer.  
 
@@ -77,46 +79,46 @@ This was the first page I have ever created on my own, so I did have the problem
 * **Solution** - I was using 'px' and this wasn't converting well, when I changed the padding to % it centered better.
 
 
-## Validators  
+## **Validators**  
 
-### HTML
+### **HTML**
 
-#### Issues found
+#### **Issues found**
 
 * The issue I had was that I had an open div without a close, it was because I re-edited the page and removed the close div by accident, closing the div solved the issue.
 * I had used section tags without having a heading tag following them, so I changed it to a div tag.
 * I used a figcaption on a link on the homepage, so I removed the figcaption and replaced it with an "<a>" caption.
 
-### CSS
+### **CSS**
 
 * Tested, no issues found
 
 ![css-validator](docs/screenshots/css-validator.jpg)
 
-## Lighthouse
+## **Lighthouse**
 
 I tested every page using the development tool lighthouse, all pages tested within the 90-100 area, which was excellent, I used incognito page to test as recommended by the lighthouse user guide. Below are screenshots from the result.
 
-### Home Page
+### **Home Page**
 
 ![lighthouse-home](docs/screenshots/lighthouse-home.jpeg)
 
-### Contact Me Page
+### **Contact Me Page**
 
 ![lighthouse-contact](docs/screenshots/lighthouse-contact.jpg)
 
-### Links Page
+### **Links Page**
 
 ![lighthouse-links](docs/screenshots/lighthouse-links.jpeg)
 
-### Halloween Page
+### **Halloween Page**
 
 ![lighthouse-halloween](docs/screenshots/lighthouse-halloween.jpeg)
 
-### Music Page
+### **Music Page**
 
 ![lighthouse-music](docs/screenshots/lighthouse-music.jpeg)
 
-## Accessability
+## **Accessability**
 
 I used the [WAVE-Web Accessability Evalution Tool](https://wave.webaim.org/) to check the accessability of my page, it came back with 2 errors, containing to the font colors agains the chalkboard background, I tried other colours which it said had better contrast, but I disagree. After reviewing my results and testing different font colours, I believe the yellow against the chalkboard stands out better than most. 
