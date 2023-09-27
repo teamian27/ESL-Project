@@ -74,23 +74,25 @@ The idea behind this site is share the resources I made when I was an ESL (Engli
 
 ### Home Page
 
-* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-home.jpg)
-* [Tablet](/workspaces/ESL-Project/docs/wireframes/home-tablet.jpg)
-* [Mobile](/workspaces/ESL-Project/docs/wireframes/phone-home.jpg)
+* ![Desktop](docs/wireframes/desktop-home.jpg)  
+* ![Tablet](docs/wireframes/home-tablet.jpg)  
+* ![Mobile](docs/wireframes/phone-home.jpg)  
 
 ### Contact Me
 
-* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-contact.jpg)
-* [Tablet](/workspaces/ESL-Project/docs/wireframes/contact-tablet.jpg)
-* [Mobile](/workspaces/ESL-Project/docs/wireframes/contact-phone.jpg)
+* ![Desktop](docs/wireframes/desktop-contact.jpg)  
+* ![Tablet](docs/wireframes/contact-tablet.jpg)  
+* ![Mobile](docs/wireframes/contact-phone.jpg)  
 
 ### Lesson
 
-* [Desktop](/workspaces/ESL-Project/docs/wireframes/desktop-lesson.jpg)
-* [Tablet](/workspaces/ESL-Project/docs/wireframes/lesson-tablet.jpg)
-* [Mobile](/workspaces/ESL-Project/docs/wireframes/phone-lesson.jpg)
+* ![Desktop](docs/wireframes/desktop-lesson.jpg)  
+* ![Tablet](docs/wireframes/lesson-tablet.jpg)  
+* ![Mobile](docs/wireframes/phone-lesson.jpg)  
 
 ## Color Scheme
+
+![Color Palette](docs/screenshots/color-palette.jpeg)  
 
 I have kept the colour scheme similar across all the pages, as I want to use a colour frame that I used when I created lessons and PowerPoints. The background on all text blocks is a light grey as I find this is easier on the eyes, white is sometimes too bright, so I wanted to dull the colour. I have used Blue and Yellow for my menu and links, as they are colours I try to use a lot, as a nod to my favourite football team.
 
