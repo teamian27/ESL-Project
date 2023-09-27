@@ -40,43 +40,29 @@ This was the first page I have ever created on my own, so I did have the problem
 ### **Problems**  
 
 1. Centering the Social Media links in the footer.  
-
-* **Issue** - The social media links seemed to be stay in the left hand corner, and wouldn't stay in a row on a mobile screen.
-* **Solution** - I found that I had made the section sm-4, by expanding it to sm-12 and taking up the whole footer it centered easily. This was a simple fix that frustrated me.
-  
-2. Creating the upload file button in similar style to the submit button
-
-* **Issue** - the upload button would only create in a grey box, and looked ugly on the page
-* **Solution** - finding a code on W3Schools, I was able to find a template to use, I was able to use the template to create a replica of the submit button, it is still not perfect, but I am happy with the result.
-  
-3. Putting two menu bars on the Halloween and Music page
-* **Issue** - I couldn't get the menu on the right hand side of the page on desktop mode to stick to the right hand side of the screen.
-* **Solution** -
-
-4. The Footer would rise up the page
-
-* **Issue** - The footer wouldn't stick to the bottom of the page
-* **Solution** - Using flex in CSS to keep the footer to the bottom of the page
-
-5. Getting the links main text to split into 2 columns
-
-* **Issue** - The text would either line up under one another, or bunch up to the side
-* **Solution** - I found that splitting the columns evenly, and then using the same class for both sides, set it up evenly.
-
-6. Centering all the side menus and menu headings, when moving between desktop and mobile
-
-* **Issue** - They would center in desktop mode, but not downsized for mobile
-* **Solution** - Changing the column sizing to be full screen in mobile mode changed this.  
-
-7. The dropdown menu would show the arrow, but wouldn't expand
-
-* **Issue** - I wanted to created a menu on the Halloween link, so it could be expanded for future development, there would be a down arrow to show that there is a dropdown menu available, but the menu wouldn't expand.
-* **Solution** - The design of the page changed before finding a solution for this issue, but it is something I plan to review in the future.
-
-8. Padding issues
-
-* **Issue** - When padding text and images I found it would look uneven or off centre when minimising for mobile.
-* **Solution** - I was using 'px' and this wasn't converting well, when I changed the padding to % it centered better.
+  * **Issue** - The social media links seemed to be stay in the left hand corner, and wouldn't stay in a row on a mobile screen.
+  * **Solution** - I found that I had made the section sm-4, by expanding it to sm-12 and taking up the whole footer it centered easily. This was a simple fix that frustrated me.  
+1. Creating the upload file button in similar style to the submit button
+  * **Issue** - the upload button would only create in a grey box, and looked ugly on the page
+  * **Solution** - finding a code on W3Schools, I was able to find a template to use, I was able to use the template to create a replica of the submit button, it is still not perfect, but I am happy with the result.  
+1. Putting two menu bars on the Halloween and Music page   
+  * **Issue** - I couldn't get the menu on the right hand side of the page on desktop mode to stick to the right hand side of the screen.
+  * **Solution** - so i modified the page, and decided to put the menu at the bottom of the page
+1. The Footer would rise up the page
+  * **Issue** - The footer wouldn't stick to the bottom of the page
+  * **Solution** - Using flex in CSS to keep the footer to the bottom of the page
+1. Getting the links main text to split into 2 columns
+  * **Issue** - The text would either line up under one another, or bunch up to the side
+  * **Solution** - I found that splitting the columns evenly, and then using the same class for both sides, set it up evenly.
+1. Centering all the side menus and menu headings, when moving between desktop and mobile  
+  * **Issue** - They would center in desktop mode, but not downsized for mobile
+  * **Solution** - Changing the column sizing to be full screen in mobile mode changed this.  
+1. The dropdown menu would show the arrow, but wouldn't expand
+  * **Issue** - I wanted to created a menu on the Halloween link, so it could be expanded for future development, there would be a down arrow to show that there is a dropdown menu available, but the menu wouldn't expand.
+  * **Solution** - The design of the page changed before finding a solution for this issue, but it is something I plan to review in the future.
+1. Padding issues
+  * **Issue** - When padding text and images I found it would look uneven or off centre when minimising for mobile.
+  * **Solution** - I was using 'px' and this wasn't converting well, when I changed the padding to % it centered better.
 
 
 ## **Validators**  
@@ -97,7 +83,11 @@ This was the first page I have ever created on my own, so I did have the problem
 
 ## **Lighthouse**
 
-I tested every page using the development tool lighthouse, all pages tested within the 90-100 area, which was excellent, I used incognito page to test as recommended by the lighthouse user guide. Below are screenshots from the result.
+I tested every page using the development tool **Lighthouse**
+ * All pages tested low originally, so I tested using **incognito** mode as recommended, and they all tested in the 90's
+ * Mobile and desktop testing were of a similar score, within the 90's.
+ * I tried testing with multiple pages open, this did lower the score to the 80's 
+ * Below are screenshots of the results
 
 ### **Home Page**
 
@@ -121,4 +111,4 @@ I tested every page using the development tool lighthouse, all pages tested with
 
 ## **Accessability**
 
-I used the [WAVE-Web Accessability Evalution Tool](https://wave.webaim.org/) to check the accessability of my page, it came back with 2 errors, containing to the font colors agains the chalkboard background, I tried other colours which it said had better contrast, but I disagree. After reviewing my results and testing different font colours, I believe the yellow against the chalkboard stands out better than most. 
+I used the [WAVE-Web Accessability Evalution Tool](https://wave.webaim.org/) to check the accessability of my page, it came back with 2 errors, containing to the font colors against the chalkboard background, I tried other colours which it said had better contrast, but I disagree. After reviewing my results and testing different font colours, I believe the yellow against the chalkboard stands out better than most. 

@@ -94,7 +94,7 @@ The idea behind this site is share the resources I made when I was an ESL (Engli
 
 ![Color Palette](docs/screenshots/color-palette.jpeg)  
 
-I have kept the colour scheme similar across all the pages, as I want to use a colour frame that I used when I created lessons and PowerPoints. The background on all text blocks is a light grey as I find this is easier on the eyes, white is sometimes too bright, so I wanted to dull the colour. I have used Blue and Yellow for my menu and links, as they are colours I try to use a lot, as a nod to my favourite football team.
+I have kept the colour scheme similar across all the pages, as I want to use a colour frame that I used when I created lessons and PowerPoints. The background on all text blocks is a light grey as I find this is easier on the eyes, white is sometimes too bright, so I wanted to dull the colour. I have used Blue and Yellow for my menu and links, as they are colours I try to use a lot when creating teaching materials, as a nod to my favourite football team.
 
 ## **Wallpaper and Header**
 
@@ -129,6 +129,8 @@ I set all the fonts across the page to Roboto, I like the font, I find it clear 
 ### **Site design**
 
 I have a lot of material available from my years of teaching, but decided to only choose two topics because of the limits of my skill, time and to be within the project guide. I have chosen my two favourite lessons to include to show the lay out.
+
+I choose to limit the amount of images on the page, as the main focus of the page are the lesson pages, I didn't want too many distractions, less is more. 
 
 ### **Index page**
 
@@ -189,16 +191,27 @@ I have created a new file called [TESTING.md](TESTING.md) which details the test
 
 ## **Deployment**  
 
-To deploy the site, I used Github, opening the repository for the project - ESL-Project. From there I went to the settings, and then opened up the pages tab, from there I selected the 'deploy from branch' the site took 24 hours to deploy.
+The page was deployed on Github using the following instuction  
+
+1. Open the project repository
+2. Go to the **settings tab**
+3. Under settings go to the **pages** tab
+4. In this tab I went to **build and deploy**  
+5. Clicked **deploy from a branch**
+6. Set the branch to - Main / root and clicked save.  
+
+The page took 24 hours to deploy
 
 ## **Credits**  
 
-[Chalkboard photo](https://pixabay.com/images/search/blackboard/)  
-[Music image on homepage](https://charitydigital.org.uk/topics/topics/the-best-platforms-for-copyright-free-music-9577)  
-[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
+[Chalkboard photo](https://pixabay.com/illustrations/chalkboard-background-decorative-517818/)  
+[Music image on homepage](https://www.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_39872708.htm#query=music&position=7&from_view=keyword&track=sph)  
+[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  - it is picture 5
 [Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
-Present Simple picture - Music lesson - This is a screenshot from my PowerPoint  
-Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint  
+Present Simple picture - Music lesson - This is a screenshot from my PowerPoint 
+Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint
+
+All PowerPoints available to download were created by me.
 
 ### **Code Borrowed**
 
