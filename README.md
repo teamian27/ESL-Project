@@ -1,7 +1,7 @@
 ![am-i-responsive](docs/screenshots/am-i-responsive.jpeg)
 
-## Menu
-- [Menu](#menu)
+## **Menu**
+- [**Menu**](#menu)
 - [**Site Overview**](#site-overview)
 - [**Planning stage**](#planning-stage)
   - [**Target Audiences:**](#target-audiences)

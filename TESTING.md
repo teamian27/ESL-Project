@@ -1,8 +1,8 @@
 # **Testing.md**
 
-## Menu
+## **Menu**
 - [**Testing.md**](#testingmd)
-  - [Menu](#menu)
+  - [**Menu**](#menu)
   - [**Testing**](#testing)
   - [**Issues and Bugs**](#issues-and-bugs)
     - [**Problems**](#problems)
