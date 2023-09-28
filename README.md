@@ -204,11 +204,11 @@ The page took 24 hours to deploy
 
 ## **Credits**  
 
-[Chalkboard photo](https://pixabay.com/illustrations/chalkboard-background-decorative-517818/)  
-[Music image on homepage](https://www.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_39872708.htm#query=music&position=7&from_view=keyword&track=sph)  
-[Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  - it is picture 5
-[Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
-Present Simple picture - Music lesson - This is a screenshot from my PowerPoint 
+The Chalkboard photo used as the background in the title and footer - [Chalkboard photo](https://pixabay.com/illustrations/chalkboard-background-decorative-517818/)  
+The image used on the home screen as a link to the music lesson page - [Music image on homepage](https://www.freepik.com/free-photo/volumetric-musical-background-with-treble-clef-notes-generative-ai_39872708.htm#query=music&position=7&from_view=keyword&track=sph)    
+This is the photo used on the homescreen as a link to the Halloween lesson - [Two Sentence Horror Story image - main menu](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  - it is picture 5  
+This is an example story seen in the Halloween lesson - [Two Sentence Horror Story image - Halloween lesson](https://www.boredpanda.com/short-scary-two-sentence-horror-stories/?utm_source=google&utm_medium=organic&utm_campaign=organic)  
+Present Simple picture - Music lesson - This is a screenshot from my PowerPoint   
 Present Perfect picture - Music lesson - This is a screenshot from my PowerPoint
 
 All PowerPoints available to download were created by me.
@@ -219,11 +219,11 @@ To create the upload button I used W3Schools code - and modified it to fit my de
 <label for="file">Upload a Lesson Plan</label> - [w3schools](https://www.w3schools.com/howto/howto_html_file_upload_button.asp)  
 
 To personalise the button I followed the instructions here, modifying the colours and shape to suit my design
-[dev.to](https://dev.to/faddalibrahim/how-to-create-a-custom-file-upload-button-using-html-css-and-javascript-1c03)
+[dev.to](https://dev.to/faddalibrahim/how-to-create-a-custom-file-upload-button-using-html-css-and-javascript-1c03)  
+
+The project base was influenced by the bootstrap project, designing a resume, I liked the layout of the page, and felt it would work for my idea, so I kept some of the structures and modified some to fit my design, I liked the overall layout of the page.
 
 ### **General Reference**
-
-The project base was influenced by the bootstrap project, designing a resume, I liked the layout of the page, and felt it would work for my idea.  
 
 There were a few resources I used a lot, to help me understand some features I wanted to try, and look at code I could use:
 - W3Schools
@@ -232,5 +232,6 @@ There were a few resources I used a lot, to help me understand some features I w
 - Dev Community
 - Code institute lessons on HTML and CSS
 - The Love Running Project from Code Institute
+- Bootstrap Design a Resume lesson for Code Institute. 
 
 
